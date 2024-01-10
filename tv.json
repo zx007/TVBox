@@ -3,8 +3,17 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "一起看 ",
+      "name": "🎉一起┃App",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "豆豆",
-      "name": "默认首页",
+      "name": "默认站点",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -151,15 +160,7 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
     },
-    {
-      "key": "一起看 ",
-      "name": "🎉一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "zxzj",
       "name": "📗在线┃直连",
