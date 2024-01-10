@@ -24,3 +24,9 @@ w
 G.idea/sonarlint/issuestore/6/e/6e973af2e06a2ec8c111df825a30d9a0b10e8d58,9\0\90b8ec1263a82c07c948eff96820a88dbd71c09e
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+8
+R18.json,e\8\e8b12c38d2817d548c45c103070281476b161f26
+H
+LIVE/tv.cctv.com.epg.xml,e\e\eeacf910d705470168761a10ffa36f5e08a8088a
+8
+ipv6.m3u,d\1\d196f222ab367284027f1b7fd392871405d8046a
