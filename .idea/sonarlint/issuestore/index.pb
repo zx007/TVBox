@@ -30,3 +30,5 @@ H
 LIVE/tv.cctv.com.epg.xml,e\e\eeacf910d705470168761a10ffa36f5e08a8088a
 8
 ipv6.m3u,d\1\d196f222ab367284027f1b7fd392871405d8046a
+R
+"《顶盒免费固件大全》.txt,f\d\fd92b0dd9a490a839939382d3995671c3fcd5b12
