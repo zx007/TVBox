@@ -51,6 +51,10 @@
 ## 🎁福利18+
 - 自行fork仓库打包<br>
 
+### 直播源引擎
+- https://www.foodieguide.com/iptvsearch/?s=
+- https://guihet.com/tvlistconvert.html#zbyjg
+
 ## TVBOX接口解析
 https://www.lige.fit/ua
 ## 🫶使用说明
