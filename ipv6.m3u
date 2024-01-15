@@ -35,8 +35,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="全国频道",CCTV-17 农业农村
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="全国频道",CCTV-4K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="全国频道",CCTV-8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="全国频道",CHC动作电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="全国频道",CHC家庭影院
@@ -44,9 +44,11 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="全国频道",CHC高清电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="全国频道",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="全国频道",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="全国频道",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="全国频道",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="全国频道",湖南卫视
@@ -163,6 +165,30 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV系列",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="求索系列",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="Bestv导视" tvg-name="Bestv导视" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv导视
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事1" tvg-name="Bestv赛事1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事1
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事2" tvg-name="Bestv赛事2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事2
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事3" tvg-name="Bestv赛事3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事3
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事4" tvg-name="Bestv赛事4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事4
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事5" tvg-name="Bestv赛事5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事5
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事6" tvg-name="Bestv赛事6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事6
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
+#EXTINF:-1 tvg-id="Bestv赛事7" tvg-name="Bestv赛事7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事7
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
@@ -225,27 +251,3 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
 #EXTINF:-1 tvg-name="西安教育" tvg-name="西安教育" tvg-logo="https://live.fanmingming.com/tv/西安教育.png" group-title="陕西频道",西安教育频道
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="求索系列",求索科学
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="Bestv导视" tvg-name="Bestv导视" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv导视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事1" tvg-name="Bestv赛事1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事2" tvg-name="Bestv赛事2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事3" tvg-name="Bestv赛事3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事4" tvg-name="Bestv赛事4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事5" tvg-name="Bestv赛事5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事5
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事6" tvg-name="Bestv赛事6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事6
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
-#EXTINF:-1 tvg-id="Bestv赛事7" tvg-name="Bestv赛事7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="赛事直播",Bestv赛事7
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
