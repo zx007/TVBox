@@ -58,6 +58,11 @@
 
 ## TVBOX接口解析
 https://www.lige.fit/ua
+
+###
+ 不支持IPV6的用户请使用IPV4直播源，IPV6直播源请使用IPV6网络环境访问，否则无法播放。
+ 参考复制https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt
+ 中的咪咕移动资源
 ## 🫶使用说明
 - 所有源均收集于互联网，仅供测试研究使用，不得商用；
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担；
